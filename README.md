@@ -5,10 +5,6 @@ Welcome to my page!
 I am a novice developer.
 I will soon start creating various projects!
 
-<br/>
-
-![GitHub stats][profileStats]
-![Languages stats][languagesStats]
 
 <br/>
 
@@ -27,6 +23,12 @@ I will soon start creating various projects!
 
 <br/>
 <!--
+
+![GitHub stats][profileStats]
+![Languages stats][languagesStats]
+
+<br
+
 ### To contact me
 
 [![Github][iconGithub]][github]
